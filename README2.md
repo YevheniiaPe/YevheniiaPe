@@ -13,7 +13,7 @@
 </div>
 
 <div id="badges" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=021471&center=true&width=900&height=198&lines=Hello+and+welcome+to+my+GitHub+page!;I'm+dedicated+to+ensuring+the+quality+and+reliability+of+software+products.;I'm+excited+to+share+my+work+with+you+and+invite+you+to+explore+my+projects.;If+you+have+any+questions+about+my+testing+process%2C;or+would+like+to+learn+more+about+my+approach+to+quality+assurance%2C;please+don't+hesitate+to+reach+out.;+I'm+always+open+to+feedback+and+suggestions+for+improvement%2C;Thank+you+for+visiting+my+page+and+;for+your+interest+in+quality+assurance.;Let's+work+to+create+software+products%2C;that+meet+the+highest+standards+of+quality+and+exceed+expectations.;Best+regards%2C+Yevheniia." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><p><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=021471&center=true&width=900&height=198&lines=Welcome+to+my+GitHub+page!;I+am+committed+to+delivering+high-quality+and+reliable+software+products.;Feel+free+to+explore+my+projects+and+let+me+know+if+you+have+any+questions+about+my+testing+process+or+approach+to+quality+assurance.;I+value+your+feedback+and+suggestions+for+improvement.;Thank+you+for+visiting+my+page+and+showing+an+interest+in+quality+assurance.;Together%2C+let%27s+strive+to+create+software+products+that+exceed+expectations+and+meet+the+highest+standards+of+quality.;Best+regards%2C+Yevheniia."+alt="Typing SVG" /></p></a>
 <hr>
 </div>
 
