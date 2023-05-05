@@ -13,7 +13,7 @@
 </div>
 
 <div id="badges" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=021471&center=true&width=900&height=198&lines=Hello+and+welcome+to+my+GitHub+page!;+Quality+assurance+is+note+just+a+job+for+me;it's+a+passion.; I'm+dedicated+to+ensuring+the+quality+and+reliability+of+software+products.;+I'm+always+open+to+feedback+and+suggestions.;Thank+you+for+visiting+my+page+and+;for+your+interest+in+quality+assurance.;Let's+work+to+create+software+products%2C;that+meet+the+highest+standards+of+quality+and+exceed+expectations.;Best+regards%2C+Yevheniia." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=021471&center=true&width=900&height=198&lines=Hello+and+welcome+to+my+GitHub+page!;Quality+assurance+is+note+just+a+job+for+me;it's+a+passion.; I'm+dedicated+to+ensuring+the+quality+and+reliability+of+software+products.;+I'm+always+open+to+feedback+and+suggestions.;Thank+you+for+visiting+my+page+and+;for+your+interest+in+quality+assurance.;Let's+work+to+create+software+products%2C;that+meet+the+highest+standards+of+quality+and+exceed+expectations.;Best+regards%2C+Yevheniia." alt="Typing SVG" /></a>
 <hr>
 </div>
 
