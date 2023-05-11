@@ -20,6 +20,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Charles](https://img.shields.io/badge/CHARLES-d3dade?style=for-the-badge&logo=CHARLES&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -32,6 +34,11 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![DevTools](https://img.shields.io/badge/DEVTOOLS-fcc525?style=for-the-badge&logo=DEVTOOLS&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3ae180.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Web Testing](https://img.shields.io/badge/Web%20Testing-3867a2?style=for-the-badge&logo=Web&logoColor=white)
+![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-a1ab26?style=for-the-badge&logo=Mobile&logoColor=white)
+![Testing Theory](https://img.shields.io/badge/Testing%20Theory-674ea7?style=for-the-badge&logo=Testing-Theory&logoColor=white)
 
 
 
