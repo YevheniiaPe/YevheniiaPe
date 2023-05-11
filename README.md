@@ -13,7 +13,7 @@
 </div>
 
 <div id="badges" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=021471&center=true&width=900&height=198&lines=Hello+there!+:)+Welcome+to+my+GitHub+page!;Are+you+also+interested+in+quality+assurance+of+software,+just+like+me?;I+would+be+very+grateful+for+any+suggestions,+advice,+and+tips+from+experts!Let's+work+together+:);Best+regards%2C+Yevheniia." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=021471&center=true&width=900&height=198&lines=Hello+there!+:)+Welcome+to+my+GitHub+page!;Are+you+also+interested+in+quality+assurance+of+software,+just+like+me?;I+would+be+very+grateful+for+any+suggestions,+advice,+and+tips+from+experts!;Let's+work+together+:);Best+regards%2C+Yevheniia." alt="Typing SVG" /></a>
 <hr>
 </div>
 
